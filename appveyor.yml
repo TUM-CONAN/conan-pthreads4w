@@ -1,9 +1,9 @@
 build: false
 
 environment:
-    PYTHON: "C:\\Python27"
-    PYTHON_VERSION: "2.7.8"
-    PYTHON_ARCH: "32"
+    PYTHON: "C:\\Python36-x64"
+    PYTHON_VERSION: "3.6.3"
+    PYTHON_ARCH: "64"
 
     CONAN_UPLOAD: "https://api.bintray.com/conan/tum-ubitrack/public-conan"
     CONAN_REFERENCE: "pthreads4w/2.9.1"
